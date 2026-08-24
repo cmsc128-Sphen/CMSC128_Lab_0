@@ -1,17 +1,9 @@
 # Developer Profiles
 
-## Dipper Pines
+## Ethan Gapulan
 
-- Preferred Name: Dipper Pines
-- Skills: Basic HTML, basic JavaScript, debugging
-- Tools: VS Code, GitHub Desktop, Chrome DevTools
+- Preferred Name: Ethan
+- Skills: Basic HTML, basic JavaScript, Python, documentation
+- Tools: VS Code, Figma, Supabase
 - Field of Focus in Computer Science: Web Development
-- Fun Fact or Goal: I want to improve in frontend development.
-
-## Jinx
-
-- Preferred Name: Jinx
-- Skills: Python, documentation, UI design
-- Tools: VS Code, Figma, Git
-- Field of Focus in Computer Science: Data Science
-- Fun Fact or Goal: I want to learn how teams collaborate using pull requests. And blow things up.
+- Fun Fact or Goal: I want to learn how to be more efficient when working with a team.
