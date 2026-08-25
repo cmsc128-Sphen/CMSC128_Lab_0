@@ -23,3 +23,11 @@
 - Tools: VS Code, Docker, Supabase
 - Field of Focus in Computer Science: Cloud Engineering
 - Fun Fact or Goal: Get atleast 1 Microsoft Azure certification
+
+## Marc Raven Sian
+
+- Preferred Name: Jetz / Marc
+- Skills: Javascript, MySQL, PostgreSQL
+- Tools: VS Code, Supabase, Figma
+- Field of Focus in Computer Science: Cloud Engineering, SaaS
+- Fun Fact or Goal: Learn conventions in developing products/services and building intution/knowledge
