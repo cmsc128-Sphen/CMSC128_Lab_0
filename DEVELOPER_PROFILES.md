@@ -15,3 +15,11 @@
 - Tools: VS Code, Figma, Supabase
 - Field of Focus in Computer Science: Web Development
 - Fun Fact or Goal: I want to learn how to be more efficient when working with a team.
+
+## John Dave Valentin
+
+- Preferred Name: JD / John Dave
+- Skills: Python, Java, HTML/CSS, JavaScript, React, Git
+- Tools: VS Code, Docker, Supabase
+- Field of Focus in Computer Science: Cloud Engineering
+- Fun Fact or Goal: Get atleast 1 Microsoft Azure certification
